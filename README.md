@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voke1&label=Profile%20views&color=0e75b6&style=flat" alt="voke1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=voke1" alt="voke1" /></a> </p>
-
 - 💬 Ask me about **React Native, React Animated API, Redux**
 
 - 📫 How to reach me **vokeolomu01@gmail.com**
