@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Voke</h1>
+<h1 align="center">Hi 👋, I'm Voke Williams</h1>
 <h3 align="center">React Native developer with extensive knowledge and expertise in mobile app and cross-platform development, producing high-quality work</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voke1&label=Profile%20views&color=0e75b6&style=flat" alt="voke1" /> </p>
